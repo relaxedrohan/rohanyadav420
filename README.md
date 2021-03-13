@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohanyadav420
 - 👀 I’m highly interested in Web Development
-- 🌱 I’m currently learning
 - 📫 How to reach me rohanyadav420.github.io
 
 <!---
