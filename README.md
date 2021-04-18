@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohanyadav420
+- 👋 Hi, I’m MERN Stack Developer
 - 👀 I’m highly interested in Web Development
 - 📫 How to reach me rohanyadav420.github.io
 
